@@ -113,7 +113,7 @@ const _$TypeNameFormatEnumMap = {
   TypeNameFormat.nfcWellKnown: 'nfcWellKnown',
   TypeNameFormat.media: 'media',
   TypeNameFormat.absoluteURI: 'absoluteURI',
-  TypeNameFormat.nfcExternel: 'nfcExternel',
+  TypeNameFormat.nfcExternel: 'nfcExternal',
   TypeNameFormat.unknown: 'unknown',
   TypeNameFormat.unchanged: 'unchanged',
 };
